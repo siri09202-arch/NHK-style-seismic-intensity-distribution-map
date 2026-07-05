@@ -1,1 +1,0 @@
-# NHK-style-seismic-intensity-distribution-map
